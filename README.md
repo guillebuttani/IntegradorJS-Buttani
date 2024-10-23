@@ -1,4 +1,4 @@
-1)Descomprimir .rar
+1) Descomprimir .rar
 2) Ejecutar en VSCode los comandos:
  npm install 
  npm run dev
